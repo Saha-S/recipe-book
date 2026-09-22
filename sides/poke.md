@@ -16,3 +16,5 @@
 ## Instructions
 
 Mix ingredients in a bowl.
+- Step 1
+- Step 2
